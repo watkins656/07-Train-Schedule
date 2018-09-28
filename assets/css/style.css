@@ -1,0 +1,15 @@
+body{
+    /* background-image: url(../img/spooky-train-line.jpg); */
+    background-size: 100%;
+    background-color: black
+}
+.header{
+    color: white;
+    height:200px;
+    text-align: center;
+    line-height: 200px; 
+}
+.content-header{
+    background-color: blue;
+    color: white;
+}
