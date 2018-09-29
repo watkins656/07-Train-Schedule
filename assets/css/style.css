@@ -1,7 +1,7 @@
 body{
-    /* background-image: url(../img/spooky-train-line.jpg); */
+    background-image: url(../img/spooky-train-line.jpg);
     background-size: 100%;
-    background-color: black
+    /* background-color: black */
 }
 .header{
     color: white;
