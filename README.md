@@ -1,6 +1,8 @@
-# Firebase Assignment - Train Scheduler (Basic - Recommended)
+# Train Scheduler
 
-##### _Because that Rock Paper Scissors Game is Too Damn Hard_
+##### _I should have done the Rock Paper Scissors Game_
+
+https://watkins656.github.io/07-Train-Schedule/
 
 ### Overview
 
