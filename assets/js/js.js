@@ -1,3 +1,4 @@
+
 var $schedule = $('#schedule-tbody');
 // Initialize Firebase
 var config = {
